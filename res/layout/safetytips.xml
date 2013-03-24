@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:maxLines="29"
+                        android:textSize = "15sp" 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="How to safely lock your bike: \n
+1) Use a fLAT key U-Lock to secure the frame and rear wheel to the rack or other fixed object. \n
+2) Use a cable lock to secure the front wheel. \n
+3) Alternatively you can use a U-Lock with a cable loop. \n
+4) Two different types of locks require different tools to defeat and therefore make it a smaller target.\n
+\n
+NHTSA Bicycle Safety Tips For Adults: A video produced by the League of American Bicyclists.\n
+http://www.bicyclecoalition.org/resources/presentations/bikevideos/dvrpc_safety \n
+
+What Does It Mean To Share The Road?: A locally produced bicycle safety video created by the Delaware Valley Regional Planning Commission. \n
+\n
+Pennsylvania Bicycle Drivers Manual:  This PENNDOT manual was adopted from the Rodale Press publication"/>
+                    
+                   
+                </LinearLayout>
